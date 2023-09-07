@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{D51D27FB
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.GoogeRA.Sprint0.Task0.V0", "Tyuiu.GoogeRA.Sprint0.Task0.V0\Tyuiu.GoogeRA.Sprint0.Task0.V0.vcxproj", "{7318F227-0067-4667-B47C-D9FFDCCACBF3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{0D86BB20-DEB9-43A3-923A-18CB829E6402}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.GoogeRA.Sprint0.Task1.V0", "Tyuiu.GoogeRA.Sprint0.Task1.V0\Tyuiu.GoogeRA.Sprint0.Task1.V0.vcxproj", "{64FC39BA-CCA0-4B70-A08B-41D284BC215E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -23,12 +27,21 @@ Global
 		{7318F227-0067-4667-B47C-D9FFDCCACBF3}.Release|x64.Build.0 = Release|x64
 		{7318F227-0067-4667-B47C-D9FFDCCACBF3}.Release|x86.ActiveCfg = Release|Win32
 		{7318F227-0067-4667-B47C-D9FFDCCACBF3}.Release|x86.Build.0 = Release|Win32
+		{64FC39BA-CCA0-4B70-A08B-41D284BC215E}.Debug|x64.ActiveCfg = Debug|x64
+		{64FC39BA-CCA0-4B70-A08B-41D284BC215E}.Debug|x64.Build.0 = Debug|x64
+		{64FC39BA-CCA0-4B70-A08B-41D284BC215E}.Debug|x86.ActiveCfg = Debug|Win32
+		{64FC39BA-CCA0-4B70-A08B-41D284BC215E}.Debug|x86.Build.0 = Debug|Win32
+		{64FC39BA-CCA0-4B70-A08B-41D284BC215E}.Release|x64.ActiveCfg = Release|x64
+		{64FC39BA-CCA0-4B70-A08B-41D284BC215E}.Release|x64.Build.0 = Release|x64
+		{64FC39BA-CCA0-4B70-A08B-41D284BC215E}.Release|x86.ActiveCfg = Release|Win32
+		{64FC39BA-CCA0-4B70-A08B-41D284BC215E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{7318F227-0067-4667-B47C-D9FFDCCACBF3} = {D51D27FB-6990-4CF9-BADF-1CEDDB2438E5}
+		{64FC39BA-CCA0-4B70-A08B-41D284BC215E} = {0D86BB20-DEB9-43A3-923A-18CB829E6402}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {01056DED-17F6-4743-A57B-6693579C2F36}
