@@ -10,7 +10,7 @@ class Service : public ISprint0Task3
 {
 	virtual int SummV3(int a, int b, int c) override
 	{
-		return a + b + c;
+		return a * b * c;
 	};
 
 };

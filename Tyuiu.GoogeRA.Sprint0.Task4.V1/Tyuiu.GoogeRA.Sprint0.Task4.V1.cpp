@@ -6,7 +6,11 @@
 using namespace std;
 int main()
 {
-    cout << "Hello World!\n\r\t\v\a\0\?";
+    cout << "Hello\n";
+    int x;
+    int y=3 ;
+    float y;
+    x = y * 5;
 
     return 0;
 

@@ -6,7 +6,7 @@ int main()
 {
     ISprint0Task3* date = new Service();
     std::cout << "PetrovCA\n";
-    std::cout << "P = a+b+c\n";
+    std::cout << "P = a*b*c\n";
     std::cout << "Rezult = " << date->SummV3(3, 4, 5);
     std::cout << std::endl;
 }
