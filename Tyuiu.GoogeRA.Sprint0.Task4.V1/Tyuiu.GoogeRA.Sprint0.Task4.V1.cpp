@@ -1,23 +1,15 @@
-// Tyuiu.GoogeRA.Sprint0.Task1.V0.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Tyuiu.GoogeRA.Sprint0.Task4.V1.cpp : This file contains the 'main' function. Program execution begins and ends there.
+//
 
 #include <iostream>
+
 using namespace std;
 int main()
 {
-    setlocale(LC_ALL, "Russian");
-    cout << "Hello World!\n";
-    cout << "Введите ФИО : ";
-    string a;
-    cin >> a;
-    cout << a << endl;
-    int v;
-    cin >> v;
-    cout << "Возраст = " << v;
-    return 0;
-
     cout << "Hello World!\n\r\t\v\a\0\?";
 
     return 0;
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
