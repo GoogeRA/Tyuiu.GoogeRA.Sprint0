@@ -164,8 +164,8 @@
     <ClCompile Include="Tyuiu.GoogeRA.Sprint0.Task2.V0.Lib.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.GoogeRA.Sprint0.Task1.V0.Test\Tyuiu.GoogeRA.Sprint0.Task1.V0.Test.vcxproj">
-      <Project>{742a7e18-58ea-4b97-b638-3a834c7d69ca}</Project>
+    <ProjectReference Include="..\Tyuiu.GoogeRA.Sprint0.Task2.V0\Tyuiu.GoogeRA.Sprint0.Task2.V0.vcxproj">
+      <Project>{07621251-68e4-4953-9e65-2c4473dafd1d}</Project>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
